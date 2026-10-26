@@ -1,0 +1,6 @@
+{
+  "name": "OLDX Classifieds Marketplace",
+  "description": "Buy and sell cars, mobile phones, electronics, real estate, furniture, and more on OLDX with instant ad posting, location filtering, and chat.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

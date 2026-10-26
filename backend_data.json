@@ -1,0 +1,1025 @@
+{
+  "listings": [
+    {
+      "id": "olx-user-1792641923685",
+      "title": "3bhk flat",
+      "description": "It's in good condition no maintenance",
+      "price": 2000,
+      "currency": "₹",
+      "category": "properties",
+      "subcategory": "For Sale: Houses & Apartments",
+      "images": [
+        "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Mumbai",
+        "area": "Bandra West",
+        "state": "India"
+      },
+      "postedDate": "Just now",
+      "featured": true,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "",
+        "Year": "2024",
+        "Warranty": "6 Months Seller Warranty",
+        "Listed By": "Sonu Varma"
+      },
+      "seller": {
+        "id": "usr-sonu-891",
+        "name": "Sonu Varma",
+        "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Aug 2024",
+        "rating": 5,
+        "reviewsCount": 1,
+        "verified": true,
+        "phone": "+91 98200 12345",
+        "responseTime": "Replies within 15 mins"
+      },
+      "viewsCount": 1,
+      "likesCount": 0,
+      "isUserListing": true,
+      "status": "active"
+    },
+    {
+      "id": "olx-101",
+      "title": "Hyundai Creta SX (O) 1.5 Diesel Automatic 2022 - Sunroof",
+      "description": "Single owner, top model Hyundai Creta SX(O) with panoramic sunroof, ventilated seats, Bose audio system, full service record at authorized Hyundai center. Zero accidental history, pristine showroom condition, comprehensive insurance valid till Nov 2026.",
+      "price": 1485000,
+      "currency": "₹",
+      "category": "cars",
+      "subcategory": "SUVs",
+      "images": [
+        "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Mumbai",
+        "area": "Andheri West",
+        "state": "Maharashtra"
+      },
+      "postedDate": "2 hours ago",
+      "featured": true,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Hyundai",
+        "Model": "Creta SX (O)",
+        "Year": 2022,
+        "KM driven": "24,500 km",
+        "Fuel": "Diesel",
+        "Transmission": "Automatic",
+        "No. of Owners": "1st Owner",
+        "Insurance": "Comprehensive (Nov 2026)"
+      },
+      "seller": {
+        "id": "sel-1",
+        "name": "Rajesh Sharma Motors",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Mar 2020",
+        "rating": 4.9,
+        "reviewsCount": 84,
+        "verified": true,
+        "phone": "+91 98201 44521",
+        "responseTime": "Replies within 15 mins"
+      },
+      "viewsCount": 1420,
+      "likesCount": 68,
+      "status": "active"
+    },
+    {
+      "id": "olx-102",
+      "title": "Apple iPhone 15 Pro Max 256GB Natural Titanium (With Bill & Box)",
+      "description": "Apple iPhone 15 Pro Max in Natural Titanium finish. 100% battery health, spotless screen, applied Spigen tempered glass since day 1. Purchased 6 months ago from Apple BKC store. Includes original USB-C braided cable, original box, and GST invoice.",
+      "price": 104000,
+      "currency": "₹",
+      "category": "mobiles",
+      "subcategory": "Mobile Phones",
+      "images": [
+        "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Bengaluru",
+        "area": "Indiranagar",
+        "state": "Karnataka"
+      },
+      "postedDate": "Today",
+      "featured": true,
+      "urgent": true,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Apple",
+        "Model": "iPhone 15 Pro Max",
+        "Storage": "256 GB",
+        "Color": "Natural Titanium",
+        "Battery Health": "98%",
+        "Warranty": "6 Months Apple Care left"
+      },
+      "seller": {
+        "id": "sel-2",
+        "name": "Aditya Verma",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Jul 2021",
+        "rating": 4.8,
+        "reviewsCount": 32,
+        "verified": true,
+        "phone": "+91 97412 88390",
+        "responseTime": "Replies in an hour"
+      },
+      "viewsCount": 890,
+      "likesCount": 52,
+      "status": "active"
+    },
+    {
+      "id": "olx-103",
+      "title": "Luxury 3 BHK Sea-Facing Apartment in Bandra West 1650 Sq.Ft",
+      "description": "Breathtaking sea view high-floor 3 BHK apartment with modular Italian kitchen, 2 reserved stilt parking spots, 24/7 power backup, clubhouse, infinity swimming pool, and gated security. Ready to move, OC received, clear title.",
+      "price": 45000000,
+      "currency": "₹",
+      "category": "properties",
+      "subcategory": "For Sale: Houses & Apartments",
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1000&q=80",
+        "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Mumbai",
+        "area": "Bandra West, Carter Road",
+        "state": "Maharashtra"
+      },
+      "postedDate": "Yesterday",
+      "featured": true,
+      "urgent": false,
+      "condition": "Brand New",
+      "attributes": {
+        "Bedrooms": "3 BHK",
+        "Bathrooms": "3 Baths",
+        "Super Area": "1,650 sq ft",
+        "Carpet Area": "1,320 sq ft",
+        "Furnishing": "Semi-Furnished",
+        "Floor": "14th of 22 Floors",
+        "Facing": "West (Sea View)",
+        "Parking": "2 Covered Slots"
+      },
+      "seller": {
+        "id": "sel-3",
+        "name": "Prestige Realty Consultants",
+        "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Jan 2019",
+        "rating": 5,
+        "reviewsCount": 156,
+        "verified": true,
+        "phone": "+91 98210 99011",
+        "responseTime": "Replies instantly"
+      },
+      "viewsCount": 3200,
+      "likesCount": 114,
+      "status": "active"
+    },
+    {
+      "id": "olx-104",
+      "title": "Royal Enfield Continental GT 650 (British Racing Green) 2023",
+      "description": "Mint condition Royal Enfield Continental GT 650 twin cylinder. Only 4,800 km ridden. Fitted with authentic AEW performance exhausts (stock exhaust included), bar end touring mirrors, custom crash guard, and ceramic coating.",
+      "price": 325000,
+      "currency": "₹",
+      "category": "bikes",
+      "subcategory": "Motorcycles",
+      "images": [
+        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Pune",
+        "area": "Koregaon Park",
+        "state": "Maharashtra"
+      },
+      "postedDate": "3 days ago",
+      "featured": false,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Royal Enfield",
+        "Model": "Continental GT 650",
+        "Year": 2023,
+        "KM driven": "4,800 km",
+        "Engine": "648 cc Twin Cylinder",
+        "Color": "British Racing Green"
+      },
+      "seller": {
+        "id": "sel-4",
+        "name": "Rohan Kulkarni",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Oct 2022",
+        "rating": 4.7,
+        "reviewsCount": 18,
+        "verified": true,
+        "phone": "+91 98900 12345",
+        "responseTime": "Replies within 30 mins"
+      },
+      "viewsCount": 1120,
+      "likesCount": 44,
+      "status": "active"
+    },
+    {
+      "id": "olx-105",
+      "title": "Sony PlayStation 5 Disc Edition + 2 DualSense Controllers + 3 Games",
+      "description": "Barely used PS5 Disc edition in 100% working order with box, HDMI 2.1 cable, charging dock, two white DualSense controllers, and 3 physical discs: Spider-Man 2, God of War Ragnarok, and FC 24.",
+      "price": 41500,
+      "currency": "₹",
+      "category": "electronics",
+      "subcategory": "Games & Consoles",
+      "images": [
+        "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Delhi",
+        "area": "South Extension II",
+        "state": "NCR"
+      },
+      "postedDate": "5 hours ago",
+      "featured": true,
+      "urgent": true,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Sony",
+        "Edition": "Disc Edition (825 GB)",
+        "Controllers": "2x DualSense Wireless",
+        "Included Games": "Spider-Man 2, GoW Ragnarok, FC24",
+        "Condition": "Spotless 9.8/10"
+      },
+      "seller": {
+        "id": "sel-5",
+        "name": "Kunal Malhotra",
+        "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Nov 2020",
+        "rating": 4.9,
+        "reviewsCount": 42,
+        "verified": true,
+        "phone": "+91 98111 55678",
+        "responseTime": "Replies in 10 mins"
+      },
+      "viewsCount": 760,
+      "likesCount": 39,
+      "status": "active"
+    },
+    {
+      "id": "olx-106",
+      "title": "Solid Teak Wood 6-Seater Dining Table with Cushioned Chairs",
+      "description": "Pure CP Teak wood dining table set with 8mm tempered glass top and 6 ergonomic cushioned chairs in navy blue velvet fabric. Handcrafted by master carpenters, scratch-free, moving abroad hence selling on urgent basis.",
+      "price": 24500,
+      "currency": "₹",
+      "category": "furniture",
+      "subcategory": "Sofa & Dining",
+      "images": [
+        "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Hyderabad",
+        "area": "Gachibowli",
+        "state": "Telangana"
+      },
+      "postedDate": "1 day ago",
+      "featured": false,
+      "urgent": true,
+      "condition": "Good",
+      "attributes": {
+        "Material": "100% Solid Teak Wood",
+        "Seating Capacity": "6 Persons",
+        "Table Top": "8mm Toughened Glass",
+        "Dimensions": "6ft x 3.5ft"
+      },
+      "seller": {
+        "id": "sel-6",
+        "name": "Sunita Reddy",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "May 2021",
+        "rating": 4.6,
+        "reviewsCount": 15,
+        "verified": false,
+        "phone": "+91 98480 33411",
+        "responseTime": "Replies in few hours"
+      },
+      "viewsCount": 540,
+      "likesCount": 28,
+      "status": "active"
+    },
+    {
+      "id": "olx-107",
+      "title": "MacBook Pro 16-inch M3 Max (36GB RAM / 1TB SSD / Space Black)",
+      "description": "Beast machine for video editing & software development. 16-inch Liquid Retina XDR display, M3 Max chip (14-core CPU, 30-core GPU), 36GB unified memory, 1TB super-fast SSD. Battery cycle count only 29. Covered under AppleCare+ till 2027.",
+      "price": 268000,
+      "currency": "₹",
+      "category": "electronics",
+      "subcategory": "Laptops & Computers",
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Bengaluru",
+        "area": "Koramangala 4th Block",
+        "state": "Karnataka"
+      },
+      "postedDate": "4 hours ago",
+      "featured": true,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Apple",
+        "Processor": "Apple M3 Max",
+        "RAM": "36 GB Unified",
+        "Storage": "1 TB SSD",
+        "Display": "16.2-inch Liquid Retina XDR",
+        "Cycle Count": "29 cycles"
+      },
+      "seller": {
+        "id": "sel-7",
+        "name": "TechHub Ventures",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Aug 2018",
+        "rating": 4.95,
+        "reviewsCount": 210,
+        "verified": true,
+        "phone": "+91 80491 77200",
+        "responseTime": "Replies in 5 mins"
+      },
+      "viewsCount": 1650,
+      "likesCount": 88,
+      "status": "active"
+    },
+    {
+      "id": "olx-108",
+      "title": "Maruti Suzuki Swift ZXi+ Dual Tone 2021 (Petrol / Manual)",
+      "description": "Top end Swift with push button start, Smartplay touchscreen studio with Android Auto/Apple CarPlay, cruise control, auto climate AC, LED projector headlamps. Comprehensive service history, zero accidents, single doctor driven.",
+      "price": 645000,
+      "currency": "₹",
+      "category": "cars",
+      "subcategory": "Hatchbacks",
+      "images": [
+        "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Ahmedabad",
+        "area": "Navrangpura",
+        "state": "Gujarat"
+      },
+      "postedDate": "Yesterday",
+      "featured": false,
+      "urgent": false,
+      "condition": "Good",
+      "attributes": {
+        "Brand": "Maruti Suzuki",
+        "Model": "Swift ZXi+ Dual Tone",
+        "Year": 2021,
+        "KM driven": "38,200 km",
+        "Fuel": "Petrol",
+        "Transmission": "Manual",
+        "Mileage": "23.2 kmpl"
+      },
+      "seller": {
+        "id": "sel-8",
+        "name": "Dr. Mehul Patel",
+        "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Sep 2019",
+        "rating": 4.8,
+        "reviewsCount": 22,
+        "verified": true,
+        "phone": "+91 98795 22001",
+        "responseTime": "Replies within 2 hours"
+      },
+      "viewsCount": 920,
+      "likesCount": 34,
+      "status": "active"
+    },
+    {
+      "id": "olx-109",
+      "title": "Samsung 55 inch QLED 4K Smart TV (Q70C Series) with HDR10+",
+      "description": "Samsung 55-inch Quantum Dot 4K 120Hz refresh rate TV, Quantum Processor 4K, Dolby Atmos audio, AirSlim design, built-in Alexa & Google Assistant, 4 HDMI 2.1 ports for PS5 gaming. In immaculate condition with wall mount bracket & smart remote.",
+      "price": 48000,
+      "currency": "₹",
+      "category": "electronics",
+      "subcategory": "TVs, Video & Audio",
+      "images": [
+        "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Delhi",
+        "area": "Dwarka Sector 12",
+        "state": "NCR"
+      },
+      "postedDate": "6 hours ago",
+      "featured": false,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Samsung",
+        "Screen Size": "55 Inches",
+        "Display Tech": "QLED 4K UHD 120Hz",
+        "Sound": "20W Dolby Atmos",
+        "Age": "1.2 Years Old"
+      },
+      "seller": {
+        "id": "sel-9",
+        "name": "Gaurav Singhal",
+        "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Feb 2022",
+        "rating": 4.7,
+        "reviewsCount": 19,
+        "verified": true,
+        "phone": "+91 99100 48722",
+        "responseTime": "Replies in 15 mins"
+      },
+      "viewsCount": 680,
+      "likesCount": 29,
+      "status": "active"
+    },
+    {
+      "id": "olx-110",
+      "title": "Commercial 3 Ton Eicher Pro 2049 Light Duty Truck 2020",
+      "description": "Eicher Pro 2049 10.5 ft container cabin truck. Fuel smart E483 engine, heavy duty payload chassis, power steering, fitness certificate valid till 2027, national road permits updated, brand new tubeless radial tires.",
+      "price": 780000,
+      "currency": "₹",
+      "category": "commercial",
+      "subcategory": "Commercial & Transport Vehicles",
+      "images": [
+        "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1586191582056-a60d057790b8?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Pune",
+        "area": "Chakan Industrial Area",
+        "state": "Maharashtra"
+      },
+      "postedDate": "2 days ago",
+      "featured": false,
+      "urgent": false,
+      "condition": "Good",
+      "attributes": {
+        "Brand": "Eicher",
+        "Model": "Pro 2049",
+        "Year": 2020,
+        "KM driven": "86,000 km",
+        "Payload": "3.2 Tons",
+        "Fuel": "Diesel BS6"
+      },
+      "seller": {
+        "id": "sel-10",
+        "name": "Om Logistics Fleet",
+        "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Jun 2017",
+        "rating": 4.8,
+        "reviewsCount": 78,
+        "verified": true,
+        "phone": "+91 98220 88991",
+        "responseTime": "Replies in 30 mins"
+      },
+      "viewsCount": 430,
+      "likesCount": 16,
+      "status": "active"
+    },
+    {
+      "id": "olx-111",
+      "title": "Original Herman Miller Aeron Ergonomic Office Chair (Size B)",
+      "description": "Authentic Herman Miller Aeron Remastered in Mineral/Graphite with PostureFit SL back support, fully adjustable arms, forward tilt limiter. Bought for work-from-home, pristine condition with zero mesh sag.",
+      "price": 68000,
+      "currency": "₹",
+      "category": "furniture",
+      "subcategory": "Office Furniture",
+      "images": [
+        "https://images.unsplash.com/photo-1580481077195-7b561c28c8b0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1505797149-43b0069ec26b?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Bengaluru",
+        "area": "Whitefield",
+        "state": "Karnataka"
+      },
+      "postedDate": "3 hours ago",
+      "featured": true,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Herman Miller",
+        "Model": "Aeron Remastered",
+        "Size": "Size B (Medium)",
+        "Lumbar Support": "PostureFit SL"
+      },
+      "seller": {
+        "id": "sel-11",
+        "name": "Vivek Chawla",
+        "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Mar 2021",
+        "rating": 5,
+        "reviewsCount": 48,
+        "verified": true,
+        "phone": "+91 99801 11234",
+        "responseTime": "Replies instantly"
+      },
+      "viewsCount": 880,
+      "likesCount": 45,
+      "status": "active"
+    },
+    {
+      "id": "olx-112",
+      "title": "Yamaha FZ-S Version 3.0 ABS Matt Black 2022 (Single Owner)",
+      "description": "149cc fuel-injected Yamaha FZ-S V3 with single-channel ABS, LED headlight, Bluetooth connectivity (Yamaha Motorcycle Connect X), clean service record with showroom bills. Ridden only in city commutes.",
+      "price": 89000,
+      "currency": "₹",
+      "category": "bikes",
+      "subcategory": "Motorcycles",
+      "images": [
+        "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Chennai",
+        "area": "Anna Nagar",
+        "state": "Tamil Nadu"
+      },
+      "postedDate": "1 day ago",
+      "featured": false,
+      "urgent": false,
+      "condition": "Good",
+      "attributes": {
+        "Brand": "Yamaha",
+        "Model": "FZ-S V3.0",
+        "Year": 2022,
+        "KM driven": "16,400 km",
+        "Fuel": "Petrol FI",
+        "Brakes": "Front ABS Disc"
+      },
+      "seller": {
+        "id": "sel-12",
+        "name": "Karthik Subramanian",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Apr 2020",
+        "rating": 4.8,
+        "reviewsCount": 26,
+        "verified": true,
+        "phone": "+91 98400 98765",
+        "responseTime": "Replies in 1 hour"
+      },
+      "viewsCount": 710,
+      "likesCount": 31,
+      "status": "active"
+    },
+    {
+      "id": "olx-113",
+      "title": "Sony Alpha A7 IV Full-Frame Mirrorless Camera Body + 28-70mm Lens",
+      "description": "33MP BSI CMOS full-frame sensor, 4K 60p video, 10-bit 4:2:2 internal recording, real-time eye autofocus for human/animal/birds. Includes 2 Sony NP-FZ100 batteries, dual charger, SanDisk 128GB Extreme Pro V90 card and original box.",
+      "price": 182000,
+      "currency": "₹",
+      "category": "electronics",
+      "subcategory": "Cameras & Lenses",
+      "images": [
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Mumbai",
+        "area": "Powai",
+        "state": "Maharashtra"
+      },
+      "postedDate": "5 hours ago",
+      "featured": true,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Sony",
+        "Model": "Alpha A7 IV (ILCE-7M4)",
+        "Shutter Count": "4,100 actuations",
+        "Lens Included": "FE 28-70mm f/3.5-5.6 OSS",
+        "Warranty": "1 Year Sony India Left"
+      },
+      "seller": {
+        "id": "sel-13",
+        "name": "Anand Photography Studio",
+        "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Dec 2018",
+        "rating": 4.9,
+        "reviewsCount": 65,
+        "verified": true,
+        "phone": "+91 98333 12908",
+        "responseTime": "Replies within 20 mins"
+      },
+      "viewsCount": 1180,
+      "likesCount": 57,
+      "status": "active"
+    },
+    {
+      "id": "olx-114",
+      "title": "Brand New Automatic Massage Recliner Chair (Zero Gravity)",
+      "description": "Electric zero gravity full body shiatsu massage chair with heating pads, Bluetooth speakers, foot rollers, and air pressure compression airbags. 10 preset automated wellness massage programs.",
+      "price": 52000,
+      "currency": "₹",
+      "category": "furniture",
+      "subcategory": "Sofa & Dining",
+      "images": [
+        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Kolkata",
+        "area": "Salt Lake Sector 5",
+        "state": "West Bengal"
+      },
+      "postedDate": "2 days ago",
+      "featured": false,
+      "urgent": false,
+      "condition": "Brand New",
+      "attributes": {
+        "Type": "Zero Gravity Full Body Recliner",
+        "Warranty": "2 Years Onsite",
+        "Power": "220V AC",
+        "Color": "Warm Espresso Brown"
+      },
+      "seller": {
+        "id": "sel-14",
+        "name": "Comfort Zone Lifestyle",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Aug 2020",
+        "rating": 4.75,
+        "reviewsCount": 39,
+        "verified": true,
+        "phone": "+91 98310 77654",
+        "responseTime": "Replies in 30 mins"
+      },
+      "viewsCount": 620,
+      "likesCount": 22,
+      "status": "active"
+    },
+    {
+      "id": "olx-115",
+      "title": "Acoustic Guitar Yamaha F310 with Padded Gig Bag & Tuner",
+      "description": "Yamaha F310 full size acoustic dreadnought guitar with spruce top, rosewood fretboard. Strung with new D'Addario phosphor bronze strings. Rich tone and smooth action, ideal for beginners and performers alike.",
+      "price": 7500,
+      "currency": "₹",
+      "category": "books_hobbies",
+      "subcategory": "Musical Instruments",
+      "images": [
+        "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Chandigarh",
+        "area": "Sector 17",
+        "state": "Punjab"
+      },
+      "postedDate": "Today",
+      "featured": false,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Brand": "Yamaha",
+        "Model": "F310 Natural",
+        "Accessories": "Padded Bag, Clip Tuner, 4 Picks",
+        "Frets": "20 Rosewood Frets"
+      },
+      "seller": {
+        "id": "sel-15",
+        "name": "Simranjeet Singh",
+        "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "May 2022",
+        "rating": 4.9,
+        "reviewsCount": 14,
+        "verified": false,
+        "phone": "+91 98140 66551",
+        "responseTime": "Replies within an hour"
+      },
+      "viewsCount": 380,
+      "likesCount": 19,
+      "status": "active"
+    },
+    {
+      "id": "olx-116",
+      "title": "Commercial 2 BHK Office Space for Rent in Hitec City Cyber Towers",
+      "description": "Fully furnished plug-and-play commercial office space with 18 workstations, 1 manager cabin, conference room with TV projector, server rack, pantry area, and 2 dedicated basement parkings. Immediate occupancy.",
+      "price": 75000,
+      "currency": "₹",
+      "category": "properties",
+      "subcategory": "Commercial Property",
+      "images": [
+        "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "location": {
+        "city": "Hyderabad",
+        "area": "Hitec City, Madhapur",
+        "state": "Telangana"
+      },
+      "postedDate": "1 day ago",
+      "featured": true,
+      "urgent": false,
+      "condition": "Like New",
+      "attributes": {
+        "Type": "Furnished Office Space",
+        "Carpet Area": "1,200 sq ft",
+        "Workstations": "18 seats + 1 Cabin",
+        "Maintenance": "₹4,500 / month",
+        "Security Deposit": "3 Months rent"
+      },
+      "seller": {
+        "id": "sel-16",
+        "name": "CyberSpace Commercials",
+        "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=80",
+        "memberSince": "Feb 2019",
+        "rating": 4.85,
+        "reviewsCount": 110,
+        "verified": true,
+        "phone": "+91 40401 22890",
+        "responseTime": "Replies in 15 mins"
+      },
+      "viewsCount": 1450,
+      "likesCount": 51,
+      "status": "active"
+    }
+  ],
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "iconName": "Tv",
+      "color": "bg-violet-50 text-violet-700 border-violet-200",
+      "description": "Laptops, TVs, Cameras, Smart Home devices & accessories",
+      "subcategories": [
+        "Laptops & Computers",
+        "TVs, Video & Audio",
+        "Cameras & Lenses",
+        "Kitchen & Small Appliances",
+        "Games & Consoles",
+        "Fridges & ACs",
+        "Smart Home & Wearables"
+      ],
+      "popularAttributes": [
+        "Brand",
+        "Device Type",
+        "Warranty Left",
+        "Condition",
+        "Includes Box/Bill"
+      ]
+    },
+    {
+      "id": "vehicles",
+      "name": "Vehicles",
+      "iconName": "Car",
+      "color": "bg-emerald-50 text-emerald-700 border-emerald-200",
+      "description": "Cars, Motorcycles, Scooters, EVs & Commercial Fleets",
+      "subcategories": [
+        "Cars & Sedans",
+        "SUVs & MUVs",
+        "Motorcycles & Superbikes",
+        "Scooters & Electric Bikes",
+        "Commercial Vehicles",
+        "Auto Spare Parts & Accessories"
+      ],
+      "popularAttributes": [
+        "Brand",
+        "Year",
+        "KM driven",
+        "Fuel type",
+        "Transmission",
+        "No. of Owners"
+      ]
+    },
+    {
+      "id": "home_goods",
+      "name": "Home Goods",
+      "iconName": "Armchair",
+      "color": "bg-rose-50 text-rose-700 border-rose-200",
+      "description": "Furniture, Home Decor, Kitchenware & Interior styling",
+      "subcategories": [
+        "Sofa & Living Room",
+        "Beds & Wardrobes",
+        "Dining & Kitchenware",
+        "Home Decor & Lighting",
+        "Office & Study Furniture",
+        "Garden & Outdoor"
+      ],
+      "popularAttributes": [
+        "Material",
+        "Condition",
+        "Dimensions",
+        "Color"
+      ]
+    },
+    {
+      "id": "services",
+      "name": "Services",
+      "iconName": "Wrench",
+      "color": "bg-cyan-50 text-cyan-700 border-cyan-200",
+      "description": "Repairs, Packers & Movers, Renovation, Drivers & more",
+      "subcategories": [
+        "Electronics & Computer Repair",
+        "Packers & Movers",
+        "Home Renovation & Painting",
+        "Driver & Taxi Services",
+        "Tours & Travel",
+        "Health & Fitness Coaching",
+        "Cleaning & Pest Control"
+      ],
+      "popularAttributes": [
+        "Service Type",
+        "Area Served",
+        "Pricing Model"
+      ]
+    },
+    {
+      "id": "mobiles",
+      "name": "Mobiles & Tablets",
+      "iconName": "Smartphone",
+      "color": "bg-indigo-50 text-indigo-700 border-indigo-200",
+      "description": "Smartphones, Tablets, Smartwatches & Accessories",
+      "subcategories": [
+        "Smartphones",
+        "iPads & Tablets",
+        "Smart Watches",
+        "Mobile Accessories",
+        "Headphones & Audio"
+      ],
+      "popularAttributes": [
+        "Brand",
+        "Model",
+        "Storage",
+        "RAM",
+        "Battery Health",
+        "Physical Condition"
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "Properties",
+      "iconName": "Home",
+      "color": "bg-blue-50 text-blue-700 border-blue-200",
+      "description": "Houses, Apartments, Commercial lands & PG accommodations",
+      "subcategories": [
+        "For Sale: Houses & Apartments",
+        "For Rent: Houses & Apartments",
+        "Lands & Plots",
+        "Commercial Property",
+        "PG & Guest Houses"
+      ],
+      "popularAttributes": [
+        "Type",
+        "Bedrooms",
+        "Bathrooms",
+        "Furnishing",
+        "Super Builtup Area (sq ft)",
+        "Carpet Area"
+      ]
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion & Beauty",
+      "iconName": "Shirt",
+      "color": "bg-pink-50 text-pink-700 border-pink-200",
+      "description": "Clothing, Shoes, Watches, Bags & Luxury accessories",
+      "subcategories": [
+        "Men Fashion",
+        "Women Fashion",
+        "Watches & Jewelry",
+        "Footwear",
+        "Bags & Luggage"
+      ],
+      "popularAttributes": [
+        "Brand",
+        "Size",
+        "Gender",
+        "Condition"
+      ]
+    },
+    {
+      "id": "jobs",
+      "name": "Jobs",
+      "iconName": "Briefcase",
+      "color": "bg-teal-50 text-teal-700 border-teal-200",
+      "description": "Full-time, Part-time & Contract job vacancies",
+      "subcategories": [
+        "Data Entry & Back Office",
+        "Sales & Marketing",
+        "BPO & Telecaller",
+        "Driver & Delivery",
+        "IT & Software",
+        "Teacher & Tutoring"
+      ],
+      "popularAttributes": [
+        "Salary Period",
+        "Position Type",
+        "Salary From",
+        "Salary To",
+        "Experience Required"
+      ]
+    },
+    {
+      "id": "pets",
+      "name": "Pets",
+      "iconName": "PawPrint",
+      "color": "bg-yellow-50 text-yellow-800 border-yellow-200",
+      "description": "Pet accessories, food, aquariums and supplies",
+      "subcategories": [
+        "Fishes & Aquarium",
+        "Pet Food & Accessories",
+        "Dogs & Puppies Accessories",
+        "Birds Cage & Feeders"
+      ],
+      "popularAttributes": [
+        "Breed/Type",
+        "Age",
+        "Vaccination Status"
+      ]
+    },
+    {
+      "id": "books_hobbies",
+      "name": "Books, Sports & Hobbies",
+      "iconName": "BookOpen",
+      "color": "bg-lime-50 text-lime-800 border-lime-200",
+      "description": "Books, Gym gear, Instruments and Sports gear",
+      "subcategories": [
+        "Books & Magazines",
+        "Gym & Fitness Equipment",
+        "Musical Instruments",
+        "Sports Equipment",
+        "Gaming & Collectibles"
+      ],
+      "popularAttributes": [
+        "Brand",
+        "Type",
+        "Condition"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-sonu-891",
+      "name": "Sonu Varma",
+      "email": "Sonuvarma891@gmail.com",
+      "phone": "+91 98200 12345",
+      "role": "admin",
+      "status": "active",
+      "verified": true,
+      "memberSince": "Aug 2024",
+      "listingsCount": 4,
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80",
+      "city": "Mumbai"
+    },
+    {
+      "id": "user-vikram",
+      "name": "Vikram Malhotra",
+      "email": "vikram.m@luxurywheels.in",
+      "phone": "+91 98201 55432",
+      "role": "user",
+      "status": "active",
+      "verified": true,
+      "memberSince": "March 2021",
+      "listingsCount": 2,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "city": "Mumbai"
+    },
+    {
+      "id": "user-rohit",
+      "name": "Rohit K.",
+      "email": "rohit.k@gmail.com",
+      "phone": "+91 98112 34567",
+      "role": "user",
+      "status": "active",
+      "verified": true,
+      "memberSince": "January 2023",
+      "listingsCount": 1,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "city": "Delhi"
+    },
+    {
+      "id": "user-spam-test",
+      "name": "Suspicious Trader",
+      "email": "dealz_fast99@tempmail.com",
+      "phone": "+91 91234 00000",
+      "role": "user",
+      "status": "banned",
+      "verified": false,
+      "memberSince": "October 2026",
+      "listingsCount": 0,
+      "city": "Kolkata"
+    }
+  ],
+  "settings": {
+    "siteName": "SOLDX Classifieds",
+    "announcementText": "🎉 Welcome to SOLDX! Post unlimited free classified ads with buyer-seller chat.",
+    "announcementActive": true,
+    "announcementType": "info",
+    "maintenanceMode": false,
+    "currencySymbol": "₹",
+    "defaultCity": "All India",
+    "requireAdApproval": false,
+    "contactEmail": "support@soldx.in",
+    "contactPhone": "1800-SOLDX-HELP",
+    "adminPin": "891000"
+  }
+}

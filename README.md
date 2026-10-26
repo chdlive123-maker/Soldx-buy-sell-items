@@ -1,11 +1,26 @@
-<div align="center">
+# SOLDX – Classifieds Marketplace
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+India's modern classifieds marketplace to buy and sell used cars, smartphones, electronics, bikes, furniture, and real estate.
 
-  <h1>Built with AI Studio</h2>
+## Local Development
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+```bash
+npm install
+npm run dev
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+App runs on `http://localhost:3000`.
 
-</div>
+## Deploy to Cloudflare Pages via GitHub
+
+1. Push all files in this folder to a new GitHub repository (e.g. `soldx-marketplace`).
+2. Log in to [Cloudflare Dashboard](https://dash.cloudflare.com/) -> **Workers & Pages** -> **Create** -> **Pages** -> **Connect to Git**.
+3. Select your `soldx-marketplace` repository and set:
+   - **Framework preset:** `Vite`
+   - **Build command:** `npm run build`
+   - **Build output directory:** `dist`
+4. Click **Save and Deploy**.
+
+### Optional: Connecting External Backend API
+If hosting `server.ts` separately (e.g., on Render or Railway), add an environment variable in Cloudflare Pages:
+- `VITE_API_URL` = `https://your-backend-url.onrender.com`
