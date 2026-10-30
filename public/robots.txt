@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/admin/
 
-Sitemap: https://soldx.pages.dev/sitemap.xml
+Sitemap: https://soldx-buy-sell-items.pages.dev/sitemap.xml
